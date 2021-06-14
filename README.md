@@ -1,4 +1,4 @@
-![portada](https://https://github.com/ccastroblua/data-cleaning-pandas/blob/master/images/portada.jpg)
+![portada](https://github.com/ccastroblua/data-cleaning-pandas/blob/main/images/portada.jpg)
 
 # data-cleaning-pandas-project (Shark Attacks)
 
