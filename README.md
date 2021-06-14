@@ -1,14 +1,6 @@
-# data-cleaning-pandas
+![portada](https://https://github.com/ccastroblua/data-cleaning-pandas/blob/master/images/portada.jpg)
 
-Shark attacks project
-
--Hipotesis y breve resumen
--Estructura de archivos y carpetas
--Librerias utilizadas
-
-![portada](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F28991991327467118%2F&psig=AOvVaw0yE5Jv1beqxdW3Hsb_ZltN&ust=1623780565732000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIilyZDcl_ECFQAAAAAdAAAAABA0)
-
-# W2 Project - Data cleaning & wrangling
+# data-cleaning-pandas-project (Shark Attacks)
 
 The goal of this project is to analize the correlation between shark attacks and different variables.
 
