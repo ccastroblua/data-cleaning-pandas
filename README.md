@@ -21,7 +21,7 @@ The goal of this project is to analize the correlation between shark attacks and
 - Is there any correlation between winter/summer/spring/autumn season and shark attacks?
 - Is there any region with high shark attacks rate?
 
-## Files srtructure:
+## Files structure:
 
 - "src" folder with a python file (cleaning_utils.py): files with functions to used in both jupyter notebook files.
 - Cleaning Jupyter Notebook file (clean.ipynb): Project cleaning stage.
@@ -31,6 +31,6 @@ The goal of this project is to analize the correlation between shark attacks and
 
 ## Library used:
 
-- Pandas <https://pandas.pydata.org/>
-- Seaborn <https://seaborn.pydata.org/#>
-- Matplotlib <https://matplotlib.org/>
+- Pandas - <https://pandas.pydata.org/>
+- Seaborn - <https://seaborn.pydata.org/#>
+- Matplotlib - <https://matplotlib.org/>
