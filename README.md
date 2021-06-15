@@ -1,8 +1,8 @@
 ![portada](https://github.com/ccastroblua/data-cleaning-pandas/blob/main/images/portada.jpg)
 
-# data-cleaning-pandas-project (Shark Attacks)
+# data-cleaning-pandas-project
 
-The goal of this project is to analize the correlation between shark attacks and different variables.
+The goal of this project is to analize the correlation between shark attacks and different variables. We will proceed to define the questions that we want to answer.
 
 ## Questions:
 
@@ -14,7 +14,7 @@ The goal of this project is to analize the correlation between shark attacks and
 - Is there any activity that people perform that produce more shark attacks?
 - Is there any correlation between activity, shark species and attack mortality rate?
 
-### This part (WORK IN PROGRESS):
+### Third part (WORK IN PROGRESS):
 
 - Which are the top 5 countries in shark attacks?
 - Which are the months with more attacks in the year?
